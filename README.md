@@ -1,2 +1,2 @@
 # ci-fix-drill-solution
-CI pipeline recovery assignment
+CI pipeline recovery assignmen
